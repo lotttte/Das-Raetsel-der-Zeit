@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<!-- Hier ist im schließenden Tag von title ein Fehler und die ids von Button und Ausgabefeld sind vertauscht -->
+
+<head>
+  <meta charset="UTF-8">
+  <title>Finde das richtige Lösungswort</Titel>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Finde das richtige Lösungswort</h1>
+  <div class="block">
+    <i>Das richtige Lösungswort wird nur angezeigt, wenn der HTML-Code von Fehlern befreit wurde!</i>
+  </div>
+
+  <!-- Eingabefeld -->
+  <div class="block">
+    <label for="eingabe">Text eingeben:</label><br>
+    <input type="text" id="eingabe">
+  </div>
+
+  <!-- Button -->
+  <div class="block">
+    <button id="ausgabe">Überprüfen</button>
+  </div>
+
+  <br>
+
+  <!-- Ausgabefeld -->
+  <div class="block">
+    <label>Ausgabe:</label>
+    <div id="checkButton"></div>
+  </div>
+
+  <!-- Script -->
+  <script src="script_g1.js"></script>
+</body>
+
+</html>

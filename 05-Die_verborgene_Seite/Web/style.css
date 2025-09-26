@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+button {
+  font-size: 14px;
+}
+
+i {
+  font-size: 12px;
+}
+
+.block {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+#eingabe,
+#ausgabe {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 30px;
+  background-color: #f0f0f0;
+  width: 80%;
+}

@@ -1,2 +1,7 @@
-# eer
-In diesem Repository sind alle nötigen Materialien, sowie Beschreibungen zu finden, die für den Educational Escape Room (EER) "Eine Zeitreise durch die Geschichte der Informatik" benötigt werden. 
+# Finale des Escape Rooms: Das Rätsel der Zeit
+
+In diesem Ordner liegen die Materialien für das **Finale** des Escape Rooms.  
+Hier wird das Meta-Rätsel gelöst, das die Ergebnisse aller vorherigen Rätsel zusammenführt.
+
+## Enthaltene Materialien
+- H5P-Anwendung als H5P-Datei und HTML-Datei.

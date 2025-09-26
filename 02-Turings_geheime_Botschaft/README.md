@@ -1,2 +1,7 @@
-# eer
-In diesem Repository sind alle nötigen Materialien, sowie Beschreibungen zu finden, die für den Educational Escape Room (EER) "Eine Zeitreise durch die Geschichte der Informatik" benötigt werden. 
+# Rätsel: Turings geheime Botschaft
+
+In diesem Ordner liegen die Materialien für das Rätsel zu **Alan Turing**.  
+Turing war ein Pionier der theoretischen Informatik und trug wesentlich zur Kryptanalyse im Zweiten Weltkrieg bei.
+
+## Enthaltene Materialien
+- Briefe von Alan Turing

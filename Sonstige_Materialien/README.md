@@ -1,2 +1,10 @@
-# eer
-In diesem Repository sind alle nötigen Materialien, sowie Beschreibungen zu finden, die für den Educational Escape Room (EER) "Eine Zeitreise durch die Geschichte der Informatik" benötigt werden. 
+# Sonstiges Material
+
+In diesem Ordner liegen zusätzliche Materialien, die im Rahmen des Escape Rooms benötigt werden.  
+
+## Enthaltene Materialien
+- Zusatzdateien, die nicht direkt zu einem Rätsel gehören.
+- Alle Briefe (auch zum Überarbeiten)
+- Logbuch (auch zum Überarbeiten)
+- Hinweisdokument
+- Porträts und Bilder für die Schlösser

@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'newAngry.blg'
+[35] biber:342> INFO - === Fr Sep 26, 2025, 12:25:29
+[107] Utils.pm:479> ERROR - Cannot find 'newAngry.bcf'!
+[107] Biber.pm:137> INFO - ERRORS: 1

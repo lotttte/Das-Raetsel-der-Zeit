@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<!-- Hier ist der type vom input falsch und die ids von Eingabe und Ausgabe sind vertauscht -->
+
+<head>
+  <meta charset="UTF-8">
+  <title>Finde das richtige Lösungswort</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Finde das richtige Lösungswort</h1>
+  <div class="block">
+    <i>Das richtige Lösungswort wird nur angezeigt, wenn der HTML-Code von Fehlern befreit wurde!</i>
+  </div>
+
+  <!-- Eingabefeld -->
+  <div class="block">
+    <label for="eingabe">Text eingeben:</label><br>
+    <input type="hidden" id="ausgabe">
+  </div>
+
+  <!-- Button -->
+  <div class="block">
+    <button id="checkButton">Überprüfen</button>
+  </div>
+
+  <br>
+
+  <!-- Ausgabefeld -->
+  <div class="block">
+    <label>Ausgabe:</label>
+    <div id="eingabe"></div>
+  </div>
+
+  <!-- Script -->
+  <script src="script_g3.js"></script>
+</body>
+
+</html>

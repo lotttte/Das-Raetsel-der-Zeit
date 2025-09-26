@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'newUnentschlossen.blg'
+[35] biber:342> INFO - === Fr Sep 26, 2025, 12:25:36
+[112] Utils.pm:479> ERROR - Cannot find 'newUnentschlossen.bcf'!
+[112] Biber.pm:137> INFO - ERRORS: 1

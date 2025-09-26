@@ -1,2 +1,7 @@
-# eer
-In diesem Repository sind alle nötigen Materialien, sowie Beschreibungen zu finden, die für den Educational Escape Room (EER) "Eine Zeitreise durch die Geschichte der Informatik" benötigt werden. 
+# Rätsel: Der zerlegte Rechner
+
+In diesem Ordner liegen die Materialien für das Rätsel zu **Konrad Zuse**.  
+Er entwickelte den ersten funktionsfähigen programmgesteuerten Computer.
+
+## Enthaltene Materialien
+- Fotos und Briefe zum Rätsel „Der zerlegte Rechner“.

@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'newSad.blg'
+[36] biber:342> INFO - === Fr Sep 26, 2025, 12:25:51
+[109] Utils.pm:479> ERROR - Cannot find 'newSad.bcf'!
+[109] Biber.pm:137> INFO - ERRORS: 1
